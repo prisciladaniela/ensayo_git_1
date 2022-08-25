@@ -1,10 +1,15 @@
-# Titulo principal
-esto es una practica para la prueba de git
+# Priscila Daniela Olguin Vera
+ Edad 28 years
 
-## sub titulo 
+## Habilidades
+ Proactiva
+ Responsabilidad
+ Puntualidad
 
-esto es un subtitulo 
+## Pasatiempos
+ Escuchar musica 
+ Leer
+ Acampar
 
-## Tercer commit 
-
-Esto es el tercer comando 
+## Intereses 
+ Estudiar
